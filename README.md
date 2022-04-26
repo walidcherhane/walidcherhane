@@ -1,5 +1,5 @@
-<iframe src="https://giphy.com/embed/nWPLGmsjvdQ4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-stars-nWPLGmsjvdQ4g">via GIPHY</a></p>
-
+<img src="https://giphy.com/embed/nWPLGmsjvdQ4g" width="480" height="80px">
+  
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/cherhane_walid">
