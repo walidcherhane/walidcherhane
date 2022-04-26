@@ -1,6 +1,15 @@
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <a href="https://twitter.com/cherhane_walid" target="blank"><img src="https://img.shields.io/twitter/follow/cherhane_walid?logo=twitter&style=for-the-badge" alt="cherhane_walid" /></a> </p>
+<a href="https://twitter.com/cherhane_walid">
+  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338056-e1802b63-a107-4a79-ba1f-491ed963a9f4.png">
+</a>
+<a href="https://codepen.io/walidcherhane">
+  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338385-3b9c131b-a64d-40bd-a243-bd8b6f8f7bea.png">
+</a>
+<a href="https://www.linkedin.com/in/walid-cherhane-ab9704169">
+  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
+</a>
+
 
 - 🔭 I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)
 
