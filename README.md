@@ -11,10 +11,6 @@ walidcherhane<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJC
 
 - 📫 How to reach me **wcherhane17@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cherhane_walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cherhane_walid" height="30" width="40" /></a>
-</p>
 
 
 
