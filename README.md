@@ -51,8 +51,7 @@
 | ------------- | ------------- |
 
 
-<a align="center" >
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/walidcherhane&left_color=#8E72DC&right_color=#8E72DC)
-
-</a>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/walidcherhane&left_color=blue&right_color=blue&left_text=profile%20views"/>
+<p>
 
