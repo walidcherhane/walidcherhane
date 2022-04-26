@@ -11,12 +11,13 @@
   <img  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
 </a>
 
+<hr />
+
 <br />
 <br />
 
 <img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&">
 
-<hr />
 
 **About me:**  
 
