@@ -22,5 +22,8 @@ walidcherhane<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJC
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidcherhane&show_icons=true&locale=en&layout=compact" alt="walidcherhane" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&hide=contribs,prs" alt="walidcherhane" /></p>
+
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&hide=contribs,prs" alt="walidcherhane" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidcherhane&show_icons=true&locale=en&layout=compact" alt="walidcherhane" />
+</div>
