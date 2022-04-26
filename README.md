@@ -20,7 +20,6 @@
   - 🌱 I’m currently learning **Vue 10% , Typescript 60% ,**
   - 💬 Ask me about **React, Node, Javascript**
   - 📫 How to reach me **wcherhane17@gmail.com** |
-| ------------- | ------------- |
 
 
 
