@@ -20,7 +20,7 @@
 
 **- 🔭 I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)**
 
-**- 🌱 I’m currently learning **Vue 10% , Typescript 60% ,****
+**- 🌱 I’m currently learning **Vue 10% , Typescript 60% ,**
 
 - 💬 Ask me about **React, Node, Javascript**
 
