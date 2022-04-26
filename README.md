@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/56094829/165343705-4e3aae81-e80d-4f0a-aeee-2b52a0436778.png" width="1000" >
+<img src="https://media1.giphy.com/media/9bTjZrytydVRK/giphy.gif?cid=ecf05e47kg874s3bzq1mjoz8tzhexqgbq2hehubyr87my9tn&rid=giphy.gif" width="1000" hight="30px" >
   
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
