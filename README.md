@@ -10,6 +10,7 @@
   <img  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
 </a>
 
+**About me:**  
 
 - 🔭 I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)
 
