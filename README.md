@@ -51,8 +51,10 @@
 | <a href="https://github.com/walidcherhane/design_my_ui"><img align="center" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/walidcherhane/design_my_ui"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidcherhane&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=walidcherhane&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=walidcherhane&theme=buefy&date_format=M%20j%5B%2C%20Y%5D"/>
+<p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/walidcherhane&left_color=blue&right_color=blue&left_text=profile%20views"/>
