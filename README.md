@@ -1,4 +1,3 @@
-<img src="https://media1.giphy.com/media/9bTjZrytydVRK/giphy.gif?cid=ecf05e47kg874s3bzq1mjoz8tzhexqgbq2hehubyr87my9tn&rid=giphy.gif" width="1000" hight="30" >
   
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
