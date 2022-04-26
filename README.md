@@ -1,6 +1,8 @@
   
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&color=9A00F7&background=16D3FF00&vCenter=true&multiline=true&width=350&height=40&lines=Full+Stack+Web+%26+App+Developer)](https://git.io/typing-svg)
+
 <a href="https://twitter.com/cherhane_walid">
   <img   width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
 </a>
