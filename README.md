@@ -1,4 +1,4 @@
-walidcherhane<h1 align="center">Hi 👋, I'm walid cherhane</h1>
+walidcherhane<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm walid cherhane</h1>
 <h3 align="center">A passionate full stack dev 🐱‍👤</h3>
 
 <p align="left"> <a href="https://twitter.com/cherhane_walid" target="blank"><img src="https://img.shields.io/twitter/follow/cherhane_walid?logo=twitter&style=for-the-badge" alt="cherhane_walid" /></a> </p>
