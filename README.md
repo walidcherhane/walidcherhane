@@ -20,11 +20,11 @@
 
   <img width="30" src="https://media2.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif?cid=ecf05e47b4prm2yrqnd1bymehxr5ilupgh4jtrri5x9n208k&rid=giphy.gif">  🔭 I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)
 
-   🌱 I’m currently learning **Vue 10% , Typescript 60% ,** **
+    <img width="30" src="https://media2.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif?cid=ecf05e47b4prm2yrqnd1bymehxr5ilupgh4jtrri5x9n208k&rid=giphy.gif"> 🌱 I’m currently learning **Vue 10% , Typescript 60% ,** **
 
-   💬 Ask me about **React, Node, Javascript**
+    <img width="30" src="https://media2.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif?cid=ecf05e47b4prm2yrqnd1bymehxr5ilupgh4jtrri5x9n208k&rid=giphy.gif"> 💬 Ask me about **React, Node, Javascript**
 
-   📫 How to reach me **wcherhane17@gmail.com**
+   <img width="30" src="https://media2.giphy.com/media/l3nW3jtbBROj5XIC4/giphy.gif?cid=ecf05e47b4prm2yrqnd1bymehxr5ilupgh4jtrri5x9n208k&rid=giphy.gif"> 📫 How to reach me **wcherhane17@gmail.com**
 
 
 
