@@ -1,13 +1,13 @@
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/cherhane_walid">
-  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338056-e1802b63-a107-4a79-ba1f-491ed963a9f4.png">
+  <img   width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
 </a>
 <a href="https://codepen.io/walidcherhane">
-  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338385-3b9c131b-a64d-40bd-a243-bd8b6f8f7bea.png">
+  <img  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338385-3b9c131b-a64d-40bd-a243-bd8b6f8f7bea.png">
 </a>
 <a href="https://www.linkedin.com/in/walid-cherhane-ab9704169">
-  <img width="256" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
+  <img  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
 </a>
 
 
