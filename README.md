@@ -14,7 +14,7 @@
 
 <hr />
 
-| <img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&"> |
+| <img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&"/> |
 **About me:**  
   - 🔭 I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)
   - 🌱 I’m currently learning **Vue 10% , Typescript 60% ,**
