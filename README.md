@@ -1,4 +1,4 @@
-![Cover ME](https://user-images.githubusercontent.com/56094829/165619450-d5e2d4b5-e6f8-49c6-a833-e28762b2d6ad.png)
+[![Walid's GitHub Banner](./assets/GitHubHeader.png)](https://twitter.com/cherhane_walid)
   
 ### Hi there, I'm [Walid!](https://github.com/walidcherhane) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=000BF7&background=B6FF3200&vCenter=true&width=350&height=16&lines=Full+Stack+Web+%26+App+Developer)](https://git.io/typing-svg)
