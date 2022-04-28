@@ -4,7 +4,7 @@
 <h3 align="center"> Hi there, I'm Walid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=8E72DC&background=DB35FF00&center=true&vCenter=true&height=38&lines=Full+stack+Web+%26+App+developer"/> <br />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=8E72DC&background=DB35FF00&center=true&vCenter=true&height=38&lines=Full+stack+Web+%26+App+developer;Blogger;UI+designer;Coffee+addicted"/> <br />
    <a href="https://twitter.com/cherhane_walid">
     <img align="center"  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
   </a>
