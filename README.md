@@ -9,6 +9,7 @@
 <p align="center">
   
   ## Hi there, I'm [Walid!](https://github.com/walidcherhane)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br />
+  
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=000BF7&background=B6FF3200&vCenter=true&width=350&height=16&lines=Full+Stack+Web+%26+App+Developer)](https://git.io/typing-svg) <br />
 
    <a href="https://twitter.com/cherhane_walid">
