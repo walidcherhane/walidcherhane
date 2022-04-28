@@ -42,23 +42,31 @@
 <br />
 <br />
 
+<div>
+<p align="left">
+
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
 
-<!--START_SECTION:waka-->
+ </p>
+ <p align="right">
 
-```text
-JavaScript   2 hrs 43 mins   ██████████████████▓░░░░░░   74.21 %
-Bash         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Markdown     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
+  <!--START_SECTION:waka-->
+
+  ```text
+  JavaScript   2 hrs 43 mins   ██████████████████▓░░░░░░   74.21 %
+  Bash         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+  Markdown     18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+  HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+  JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+  ```
+</p>
+</div>
 
 <!--END_SECTION:waka-->
 
