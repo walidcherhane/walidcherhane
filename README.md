@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-  ## Hi there, I'm [Walid!](https://github.com/walidcherhane)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  ## Hi there, I'm [Walid!](https://github.com/walidcherhane)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br />
 
    <a href="https://twitter.com/cherhane_walid">
     <img align="center"  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
