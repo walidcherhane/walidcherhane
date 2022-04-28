@@ -1,8 +1,7 @@
 [![Walid's GitHub Banner](./assets/GitHubHeader.png)](https://twitter.com/cherhane_walid)
   
-<p align="center" >
   
-<h1> Hi there, I'm Walid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3> Hi there, I'm Walid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=000BF7&background=B6FF3200&vCenter=true&width=350&height=16&lines=Full+Stack+Web+%26+App+Developer)](https://git.io/typing-svg) <br />
 
@@ -16,7 +15,6 @@
   <a href="https://www.linkedin.com/in/walid-cherhane-ab9704169">
     <img  align="center" width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
   </a>
-</p>
 
 
 <hr />
