@@ -18,7 +18,17 @@
 
 </p>
 <hr />
-
+<p align="center">
+   <a href="https://twitter.com/cherhane_walid">
+    <img align="center"  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
+  </a>
+  <a href="https://codepen.io/walidcherhane">
+    <img  align="center" width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338385-3b9c131b-a64d-40bd-a243-bd8b6f8f7bea.png">
+  </a>
+  <a href="https://www.linkedin.com/in/walid-cherhane-ab9704169">
+    <img  align="center" width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
+  </a>
+</p>
 <img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&"> 
 
 **About me:**  
