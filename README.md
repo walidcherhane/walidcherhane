@@ -53,7 +53,9 @@
 
 
 
-  <!--START_SECTION:waka-->
+
+
+|   <!--START_SECTION:waka-->
 
   ```text
   JavaScript   2 hrs 43 mins   ██████████████████▓░░░░░░   74.21 %
@@ -64,7 +66,14 @@
   ```
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->|**Languages and Tools:**  
+
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code> |
+| ------------- | ------------- |
 
 
 | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walid's github stats" /></a> | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidcherhane&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -73,8 +82,7 @@
 | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-profile-trophy.vercel.app/?username=walidcherhane" /></a> | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=walidcherhane&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/walidcherhane"><img align="center" src="https://metrics.lecoq.io/walidcherhane?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&reactions=1&stargazers=1&pagespeed=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&stargazers.charts.type=classic&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Africa%2FCasablanca" /></a>|
-| ------------- | ------------- |
+
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/walidcherhane&left_color=blue&right_color=blue&left_text=profile%20views">
