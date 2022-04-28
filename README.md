@@ -2,7 +2,7 @@
   
 <p align="center" >
   
-** Hi there, I'm [Walid!](https://github.com/walidcherhane)  ** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ <h1 >Hi there, I'm [Walid!](https://github.com/walidcherhane)</h1>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=000BF7&background=B6FF3200&vCenter=true&width=350&height=16&lines=Full+Stack+Web+%26+App+Developer)](https://git.io/typing-svg)
 
 <a href="https://twitter.com/cherhane_walid">
@@ -16,7 +16,7 @@
 </a>
   
 
-<p/>
+</p>
 <hr />
 
 <img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&"> 
