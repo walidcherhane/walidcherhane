@@ -55,7 +55,7 @@
 
 
 
-|   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
   ```text
   JavaScript   2 hrs 43 mins   ██████████████████▓░░░░░░   74.21 %
