@@ -38,10 +38,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 **Some States:**  
 
