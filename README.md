@@ -1,7 +1,7 @@
 [![Walid's GitHub Banner](./assets/GitHubHeader.png)](https://twitter.com/cherhane_walid)
   
   
-<h3 align="center"> Hi there, I'm Walid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<h3 align="center"> Hi there, I'm Walid! </h3>
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&size=25&duration=10000&color=F7F7F7&background=000000FD&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+App+developer;Part-time+web+designer"/> <br />
