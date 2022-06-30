@@ -50,6 +50,7 @@ Other        1 hr 23 mins    ███████████████▒░
 ```
 
 <!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@dd334e0e-8536-4f6e-b2b4-ca29286bef68/056cc6e6-57a9-4217-92d2-b476b92cee84.svg"></embed></figure> 
 
 | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walid's github stats" /></a> | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidcherhane&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
