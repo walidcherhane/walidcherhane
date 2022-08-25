@@ -1,67 +1,58 @@
-[![Walid's GitHub Banner](./assets/GitHubHeader.png)](https://twitter.com/cherhane_walid)
-  
-  
-<h3 align="center"> Hi there, I'm Walid! </h3>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&size=25&duration=10000&color=F7F7F7&background=000000FD&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+App+developer;Part-time+web+designer"/> <br />
-   <a href="https://twitter.com/cherhane_walid">
-    <img align="center"  width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165339099-6e10a615-b81e-470f-a31b-960e282b2cef.png">
-  </a>
-  <a href="https://codepen.io/walidcherhane">
-    <img  align="center" width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338385-3b9c131b-a64d-40bd-a243-bd8b6f8f7bea.png">
-  </a>
-  <a href="https://www.linkedin.com/in/walid-cherhane-ab9704169">
-    <img  align="center" width="21px" alt="Walid Cherhane" src="https://user-images.githubusercontent.com/56094829/165338700-a51d86fe-ee88-43fa-8531-1a8d1a23111c.png">
-  </a>
+Hi 👋 My name is walid Cherhane
+===============================
 
-<p>
+Full Stack Developer?
+---------------------
 
+* 🌍  I'm based in Morocco
+* ✉️  You can contact me at [wcherhane17@gmail.com](mailto:wcherhane17@gmail.com)
+* 🚀  I'm currently working on [DesignMyUI](http://designmyui.software)
+* 🧠  I'm learning some Backend stuff...
+* ⚡  Yeah I HATE php... but don't tell my "professor"
 
-<hr />
+### Skills
 
-<img align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4790qzp9dkxvauurb8jxu5nwgk5ehety19czv9zgqz&rid=giphy.gif&"> 
-
-**About me:**  
-
-⭐  **JavaScript** Lover 🌹
-
-⭐  I’m currently working on [Design my ui](https://github.com/walidcherhane/design_my_ui)
-
-⭐  I’m currently learning **Typescript** 
-
-⭐  Ask me about **React, Node, Javascript**
-
-⭐  How to reach me **wcherhane17@gmail.com**
-
-
-
-<br />
-<br />
-<br />
-
-**Some States:**  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-<!--START_SECTION:waka-->
+### Socials
 
-```text
-TypeScript   27 hrs 38 mins  ██████████████████████▒░░   89.37 %
-Other        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-```
+<p align="left"> <a href="https://www.codepen.io/walidcherhane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/walidcherhane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://walidcherhane.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/walid-cherhane-ab9704169/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cherhane_walid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@dd334e0e-8536-4f6e-b2b4-ca29286bef68/056cc6e6-57a9-4217-92d2-b476b92cee84.svg"></embed></figure> 
+### Badges
 
-| <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api?username=walidcherhane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Walid's github stats" /></a> | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidcherhane&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<b>My GitHub Stats</b>
 
-| <a href="https://github.com/walidcherhane"><img align="center" src="https://github-profile-trophy.vercel.app/?username=walidcherhane" /></a> | <a href="https://github.com/walidcherhane"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=walidcherhane&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" /></a> |
-| ------------- | ------------- |
+<a href="http://www.github.com/walidcherhane"><img src="https://activity-graph.herokuapp.com/graph?username=walidcherhane&bg_color=ffffff&color=3382ed&line=84cc16&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/walidcherhane/designmyui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walidcherhane&repo=designmyui&title_color=a855f7&text_color=3382ed&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/walidcherhane&left_color=blue&right_color=blue&left_text=profile%20views">
-<p>
+### Support Me
 
+<a href="https://www.buymeacoffee.com/ch.walid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
