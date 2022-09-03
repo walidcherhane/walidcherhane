@@ -1,7 +1,7 @@
 Hi 👋 My name is walid Cherhane
 ===============================
 
-Full Stack Developer?
+Full Stack Developer
 ---------------------
 
 * 🌍  I'm based in Morocco
