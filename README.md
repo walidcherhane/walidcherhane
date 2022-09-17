@@ -49,9 +49,12 @@ Full Stack Developer
 
 <a href="http://www.github.com/walidcherhane"><img src="https://activity-graph.herokuapp.com/graph?username=walidcherhane&bg_color=ffffff&color=3382ed&line=84cc16&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+<b>Recent Projects</b>
 
 <div width="100%" align="center"><a href="https://github.com/walidcherhane/designmyui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walidcherhane&repo=designmyui&title_color=a855f7&text_color=3382ed&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/walidcherhane/designmyui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=walidcherhane&repo=rc-toastr&title_color=a855f7&text_color=3382ed&icon_color=84cc16&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 ### Support Me
 
