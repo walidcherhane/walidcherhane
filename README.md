@@ -1,9 +1,6 @@
 Hi 👋 My name is walid Cherhane
 ===============================
 
-Full Stack Developer
----------------------
-
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [wcherhane17@gmail.com](mailto:wcherhane17@gmail.com)
 * 🚀  I'm currently working on [DesignMyUI](http://designmyui.software)
