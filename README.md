@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Heroku is shutting down all the free services  and here are top 2 alternatives](https://walidcherhane.hashnode.dev/heroku-top-2-alternatives)
+- [ReactJS: Why It&#39;s the Best Thing to Happen to JavaScript in Years](https://walidcherhane.hashnode.dev/reactjs-why-its-the-best-thing-to-happen-to-javascript-in-years)
+- [React Tags Input](https://walidcherhane.hashnode.dev/react-tags-input)
+- [React usePersistedState hook](https://walidcherhane.hashnode.dev/react-usepersistedstate-hook)
+- [How to Asynchronously loop through an Array in JavaScript?](https://walidcherhane.hashnode.dev/how-to-asynchronously-loop-through-an-array-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
