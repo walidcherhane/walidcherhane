@@ -1,1 +1,1 @@
-<a href="https://twitter.com/intent/user?screen_name=cherhane_walid"><img alt="Follow @cherhane_walid on Twitter" src="https://github.com/walidcherhane/walidcherhane/raw/master/assets/header.gif"/></a>
+<a href="https://twitter.com/intent/user?screen_name=cherhane_walid"><img alt="Follow @cherhane_walid on Twitter" src="https://github.com/walidcherhane/walidcherhane/raw/main/assets/header.gif"/></a>
